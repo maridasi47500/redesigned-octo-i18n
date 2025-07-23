@@ -77,10 +77,10 @@ Exist18n – Internationalized existence.
 Un18n – A beautiful contradiction: internationalization by not trying.
 
 
-🌐 i18n Global Identity
+* 🌐 i18n Global Identity
 An experimental fusion app for self-setting, exploration, and identity—beyond boundaries and beyond labels.
 
-🧭 About the Project
+#### About the Project
 i18n Global Identity is not a social app, not a language tool, and not a gossip hub. It is a journey inward and across borders—an app where you set yourself as 1 of 2, 1 of 3, or 1 of 4, without needing to explain, justify, or conform.
 
 🔍 What It Offers
@@ -97,7 +97,7 @@ More “trip” than “meeting.” More “existence” than “interaction.”
 
 This app doesn’t introduce you to other people—it introduces you to possibilities
 
-2nd option
+#### 2nd option
 
 Your vision feels more like a deliberate framework than a dreamy experience—a structure where identity can be quietly chosen, without spectacle or sentiment. 
 
